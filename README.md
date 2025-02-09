@@ -3,8 +3,7 @@
 Hi there! I'm a passionate **machine learning researcher** currently pursuing my master's with a focus on **deep learning**. My interests span across:  
 
 - 🔹 **Computer Vision** (CNNs, Vision Transformers, DeepFake Detection)  
-- 🔹 **Generative AI** (Exploring practical applications)  
-- 🔹 **Model Explainability** (Implementing Grad-CAM)  
+- 🔹 **Generative AI** (Exploring practical applications)    
 - 🔹 **Optimization & Efficiency** (Improving ML models)  
 
 ## 🌟 Projects  
